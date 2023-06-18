@@ -11,4 +11,11 @@
 ## 🙋‍♂️ O projekcie:
 Projekt zawiera bardzo proste użycie bibliotek SDL-owych
 do pokazania działania zaimplementowanego problemu skarbonek z Olimpiady Informatycznej.
+
 <br/>
+
+Logika tego zadania bazuje na algorytmie DFS czyli Depth-first search który ma za zadanie wyszukać cykle w grafie, dzięki czemu 
+jestem w stanie powiedzieć ile minimalnie świnek mogę zestrzelić/rozbić.
+
+<br/>
+
