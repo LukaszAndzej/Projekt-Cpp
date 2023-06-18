@@ -18,4 +18,4 @@ Logika tego zadania bazuje na algorytmie DFS czyli Depth-first search który ma 
 jestem w stanie powiedzieć ile minimalnie świnek mogę zestrzelić/rozbić.
 
 <br/>
-<h3 align="center">  :pig2: 	:fire:     	:boom:           	:boom:           	:boom:          	:boom: :person_fencing:</h3>
+<h3 align="center">  :pig2::fire:     	:boom:           	:boom:           	:boom:          	:boom::person_fencing:</h3>
