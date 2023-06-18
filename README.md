@@ -1,4 +1,4 @@
-# Projekt-Cpp
+# Projekt-Cpp Skarbonki
 
 <p align="center">
   <a href="#"><img width="50%" height="auto" src="https://media.tenor.com/W0RwEZf6xncAAAAC/piggy-piggy-bank.gif" height="200px"/></a>
