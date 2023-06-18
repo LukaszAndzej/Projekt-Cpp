@@ -9,10 +9,6 @@
 
 
 ## 🙋‍♂️ O projekcie:
-
-- 🔭
-- 🌱 
-- 👯 
-- 📫 
-
+Projekt zawiera bardzo proste użycie bibliotek SDL-owych
+do pokazania działania zaimplementowanego problemu skarbonek z Olimpiady Informatycznej.
 <br/>
