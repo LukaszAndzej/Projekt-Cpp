@@ -1,0 +1,5 @@
+C:/Users/andze/Desktop/Uniwersity/I_rok/II_semestr/Projekt_cpp/project/build/CMakeFiles/Game.dir
+C:/Users/andze/Desktop/Uniwersity/I_rok/II_semestr/Projekt_cpp/project/build/CMakeFiles/package.dir
+C:/Users/andze/Desktop/Uniwersity/I_rok/II_semestr/Projekt_cpp/project/build/CMakeFiles/package_source.dir
+C:/Users/andze/Desktop/Uniwersity/I_rok/II_semestr/Projekt_cpp/project/build/CMakeFiles/edit_cache.dir
+C:/Users/andze/Desktop/Uniwersity/I_rok/II_semestr/Projekt_cpp/project/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+[2023-06-18 12:37:52.219] [Info] Adding edge (0, 0)
+[2023-06-18 12:37:52.223] [Info] Adding edge (1, 1)
+[2023-06-18 12:37:52.226] [Info] Adding edge (2, 2)
+[2023-06-18 12:37:52.229] [Info] Adding edge (3, 3)
+[2023-06-18 12:37:52.234] [Info] Adding edge (4, 4)
+[2023-06-18 12:37:52.239] [Info] Display graph
+                                 (0 - 0)    (# - #)    (# - #)    (# - #)    (# - #)    
+                                 (# - #)    (1 - 1)    (# - #)    (# - #)    (# - #)    
+                                 (# - #)    (# - #)    (2 - 2)    (# - #)    (# - #)    
+                                 (# - #)    (# - #)    (# - #)    (3 - 3)    (# - #)    
+                                 (# - #)    (# - #)    (# - #)    (# - #)    (4 - 4)    
+
+[2023-06-18 12:37:52.265] [Info] Display cycles
+                                 Cycle 0: 1, 
+                                 Cycle 1: 2, 
+                                 Cycle 2: 3, 
+                                 Cycle 3: 4, 
+                                 Cycle 4: 5, 
+[2023-06-18 12:37:56.275] [Info] Piggy number 1 was shot down!
+[2023-06-18 12:37:58.451] [Info] Piggy number 4 was shot down!
+[2023-06-18 12:38:01.11] [Info] Piggy number 2 was shot down!
+[2023-06-18 12:38:01.33] [Info] Piggy number 3 was shot down!
+[2023-06-18 12:38:03.123] [Info] Piggy number 5 was shot down!

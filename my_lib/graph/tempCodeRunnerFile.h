@@ -1,0 +1,1 @@
+            if (edgesContainer.size() != 0) {
